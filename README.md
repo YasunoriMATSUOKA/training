@@ -13,8 +13,8 @@ https://angular.jp/tutorial
 | :--- | :--------------------- | :---- | :-------------- | :--------------------------------- |
 | 0. | introduction | done | 2020/02/22 | https://github.com/YasunoriMATSUOKA/training/pull/2 |
 | 0. | application shell | done | 2020/02/22 | https://github.com/YasunoriMATSUOKA/training/pull/1 |
-| 1. | hero editor |  |  |  |
-| 2. | show list |  |  |  |
+| 1. | hero editor | done | 2020/02/22 | https://github.com/YasunoriMATSUOKA/training/pull/7 |
+| 2. | show list | done | 2020/02/22 | https://github.com/YasunoriMATSUOKA/training/pull/8 |
 | 3. | make feature component |  |  |  |
 | 4. | add service |  |  |  |
 | 5. | add navigation in app |  |  |  |
