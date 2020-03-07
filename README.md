@@ -10,6 +10,8 @@ This repository is training data.
 
 #### history
 
+##### 1st
+
 | no | training topic | status | date | pull request |
 | :--- | :--------------------- | :---- | :-------------- | :--------------------------------- |
 | 0. | introduction | [x] | 2020/02/22 | [https://github.com/YasunoriMATSUOKA/training/pull/2](https://github.com/YasunoriMATSUOKA/training/pull/2) |
@@ -20,6 +22,19 @@ This repository is training data.
 | 4. | add service | [x] | 2020/03/07 | [https://github.com/YasunoriMATSUOKA/training/pull/16](https://github.com/YasunoriMATSUOKA/training/pull/16) |
 | 5. | add navigation in app | [x] | 2020/03/07 | [https://github.com/YasunoriMATSUOKA/training/pull/17](https://github.com/YasunoriMATSUOKA/training/pull/17) |
 | 6. | get data from server | [x] | 2020/03/07 | [https://github.com/YasunoriMATSUOKA/training/pull/18](https://github.com/YasunoriMATSUOKA/training/pull/18) |
+
+##### 2nd
+
+| no | training topic | status | date | pull request |
+| :--- | :--------------------- | :---- | :-------------- | :--------------------------------- |
+| 0. | introduction | [] |  |  |
+| 0. | application shell | [] |  |  |
+| 1. | hero editor | [] |  |  |
+| 2. | show list | [] |  |  |
+| 3. | make feature component | [] |  |  |
+| 4. | add service | [] |  |  |
+| 5. | add navigation in app | [] |  |  |
+| 6. | get data from server | [] |  |  |
 
 #### memo
 
